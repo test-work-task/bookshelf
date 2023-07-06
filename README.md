@@ -1,8 +1,8 @@
-# Bookshelf 
-
-This project, "Bookshelf", has been developed as a test assignment for a frontend developer position. It is a web application that allows users to manage their book collections.
+# Bookshelf
 
 ![Bookshelf](bookshelf-screenshot.png)
+
+This project, "Bookshelf", has been developed as a test assignment for a frontend developer position. It is a web application that allows users to manage their book collections.
 
 ## Technologies Used
 
@@ -11,4 +11,4 @@ This project, "Bookshelf", has been developed as a test assignment for a fronten
 - React Context: A state management tool for React applications.
 - Draftbit REST API: The app uses a RESTful API for handling data communication with the server.
 
-Visit the Bookshelf [Link to the **GitHub Pages**](https://vitland.github.io/bookshelf/)
+Visit the Bookshelf [Link to the **GitHub Pages**](https://bababum95.github.io/bookshelf/)
