@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/bookshelf/static/js/main.4abc49c4.js",
+    "main.js": "/bookshelf/static/js/main.5ead3d82.js",
     "static/media/bookshelf-log.svg": "/bookshelf/static/media/bookshelf-log.95e00c2b425c1af60c6e5a6493fcddf4.svg",
     "index.html": "/bookshelf/index.html",
-    "main.4abc49c4.js.map": "/bookshelf/static/js/main.4abc49c4.js.map"
+    "main.5ead3d82.js.map": "/bookshelf/static/js/main.5ead3d82.js.map"
   },
   "entrypoints": [
-    "static/js/main.4abc49c4.js"
+    "static/js/main.5ead3d82.js"
   ]
 }
