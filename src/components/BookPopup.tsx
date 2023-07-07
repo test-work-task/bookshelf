@@ -47,6 +47,7 @@ const BookPopup: FC<BookPopupProps> = ({ book, handleClose, open }) => {
                     style={{
                         margin: '10px auto',
                         display: 'block',
+                        maxWidth: '100%',
                     }}
                     src={book.image_url}
                     alt={book.title} />
